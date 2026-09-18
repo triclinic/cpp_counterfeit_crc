@@ -1,0 +1,3 @@
+# Set your own CRC value for the dataset
+
+This is a simple header-only library for adjusting data vectors to match an expected CRC. It includes table-based methods for calculating forward and reverse CRC checksums. <br>The code was written using ideas and approaches described in the article by Nikolai Likhachev (Chris Kaspersky, myschh) titled "How CRC16/32 Is Faked". The code was rewritten using modern C++ features. Some inaccuracies in the original article were also corrected.
